@@ -1,4 +1,4 @@
-i# Installs Nginx Web Server
+# Installs Nginx Web Server
 
 include stdlib
 
